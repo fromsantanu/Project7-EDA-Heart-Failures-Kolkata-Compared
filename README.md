@@ -20,7 +20,7 @@
 
 ## Description
 
-Dengue outbreaks in Kolkata analyzed based on temperature and humidity during different months of the year. The plotting in this case has been done as comparable line chart with different colors.
+Cases of heart failure cases in Kolkata compared for Smokers and Alcoholics during different months of the year. The plotting in this case has been done as comparable line chart with different colors.
 
 ## Video
 
